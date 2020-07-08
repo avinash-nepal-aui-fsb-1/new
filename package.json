@@ -1,0 +1,23 @@
+{
+  "name": "avinash-",
+  "version": "1.0.0",
+  "description": "Flatiron school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nashlink007/avinash-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nashlink007/avinash-/issues"
+  },
+  "homepage": "https://github.com/nashlink007/avinash-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
